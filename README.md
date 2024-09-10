@@ -1,5 +1,5 @@
 # 💫 About Me:
-PhD researcher in AI and image processing for Versatile Video Coding (VVC)
+PhD researcher in AI and image processing for Versatile Video Coding (VVC) | Software Engineer
 
 
 # 💻 Tech Stack:
